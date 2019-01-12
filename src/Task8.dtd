@@ -1,0 +1,10 @@
+<?xml version="1.0" encording="UNF-8"?>
+        <!--Задание 8 РТ-2 стр-32-->
+        <!ELEMENT pointList (point*)>
+        <!ELEMENT  point (x,y)>
+        <!ELEMENT x  (#PCDATA)>
+        <!ELEMENT y  (#PCDATA)>
+        <!ATTLIST  x CDATA #REQUIRED>
+        <!ATTLIST  y CDATA #REQUIRED>
+        <!ATTLIST point unit  #FIXED "px">
+        <!ATTLIST point color  #IMPLIED>

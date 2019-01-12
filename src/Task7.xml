@@ -1,0 +1,16 @@
+<?xml version = "1.0" ?>
+<!--Задание 7 РТ-2 стр-27-->
+<pointList>
+    <point  unit="cm|mm|px" color = "blue">
+        <x>2</x>
+        <y>3</y>
+    </point>
+    <point unit="cm|mm|px" color="red">
+        <x>20</x>
+        <y>30</y>
+    </point>
+    <point unit="cm|mm|px" color = "green">
+        <x>50</x>
+        <y>100</y>
+    </point>
+</pointList>
